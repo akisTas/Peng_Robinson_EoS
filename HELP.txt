@@ -1,0 +1,4 @@
+1.Read the first helpful lines of the code
+2.Create a data.csv file exactly in the way that the given file is structured, for the substance and the spesific equilibria properties of your interest
+3.After creating the proper data file,run the cells consecutively
+4.Please contact me for every question or any suggestion you can provide
